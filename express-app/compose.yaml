@@ -1,1 +1,6 @@
-# Add code here
+services:
+  app:
+    build:
+      context: .
+    ports:
+      - "4567:4567"
