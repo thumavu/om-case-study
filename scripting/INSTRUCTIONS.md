@@ -1,4 +1,4 @@
-Run the script from the repo root:
+Run the script from the repo's root dir:
 
 ```bash
 python3 scripting/script.py scripting/tfplan-1.json
